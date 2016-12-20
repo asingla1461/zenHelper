@@ -1,5 +1,6 @@
 """
 Usage
+Put this in your working dir
 python main.py testFunctionName
 python main.py -r testFunctionName : regenerate all tests incase you added a new one
 """
